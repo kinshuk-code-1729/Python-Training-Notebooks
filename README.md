@@ -7,7 +7,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Advantages, Limitations and Applications of Python.**
 - ***id( )* function, *type( )* function.**
 - **Different ways to give inputs in python :**
-  - ***split()* method.**
+  - ***split( )* method.**
   - **hardcode.**
   - **user-defined.**
   - **variable length.**
@@ -42,3 +42,23 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - **Programs of list.** 
 - **List Comprehension.**
 - **One program asked in *Microsoft Interview.***
+
+## 🎇🎇 Day 3 🎇🎇
+- **Strings :**
+  - **Single, Double & Triple quoted Strings.** 
+  - **Various String-Manipulation Methods (String Attributes) :**
+    - ***lower( )***
+    - ***upper( )***
+    - ***title( )***
+    - ***capitalize( )***
+    - ***swapcase( )***
+    - ***replace( )***
+  - ***Indexing* in Strings.**
+  - ***Lists* and *Strings* as *datatypes.***
+- **Programs of :**
+  - **To check whether a String is *Palindrome* or not.**
+  - **Program with comma separated output with no comma after *last* value.**
+  - **Finding sum of digits upto *single digit* sum.**
+  - **Removing *duplicate* elements from a list and insert *unique* elements in the new list.**
+  - ***Fibonacci Series* from any two user defined numbers.**
+- ***Facebook Interview* question of adding *digits* of *list-elements.***

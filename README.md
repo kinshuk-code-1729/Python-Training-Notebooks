@@ -72,3 +72,7 @@ a. Calculate avg of a list elements. List is not directly given. 1st create a sp
 b. Remove common elements from 2 lists and store them in a separate list
 c. Find the index of repeated elements in a list and store those index positions in another list.
 5. Facebook interview qs- There are 2 lists. Find the index position in the first list of the elements given in the 2nd list and store them in a 3rd list.
+
+DAY 5 DICTIONARY
+
+Today we covered complete dictionary (python ver.3.7). 

@@ -62,3 +62,13 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - **Removing *duplicate* elements from a list and insert *unique* elements in the new list.**
   - ***Fibonacci Series* from any two user defined numbers.**
 - ***Facebook Interview* question of adding *digits* of *list-elements.***
+DAY 4
+Today's topics covered in Python-
+1. List attributes- count, len, index, sum
+2. String attributes- strip, lstrip, rstrip, startswith, endswith, isdigit, isalpha, isalnum
+3. Enumerate function
+4. Programs-
+a. Calculate avg of a list elements. List is not directly given. 1st create a space separated elements in a list using code and then calculate avg using list comprehension.
+b. Remove common elements from 2 lists and store them in a separate list
+c. Find the index of repeated elements in a list and store those index positions in another list.
+5. Facebook interview qs- There are 2 lists. Find the index position in the first list of the elements given in the 2nd list and store them in a 3rd list.

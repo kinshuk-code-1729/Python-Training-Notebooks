@@ -65,19 +65,19 @@ This repository contains jupyter notebooks day-wise made during my python traini
 
 ## 🎇🎇 Day 4🎇🎇
 - List attributes :
-  - count( )
-  - len( )
-  - index( )
-  - sum( )
+  - *count( )
+  - *len( )
+  - *index( )
+  - *sum( )
 - String attributes :
-  - strip( )
-  - lstrip( )
-  - rstrip( )
-  - startswith( )
-  - endswith( )
-  - isdigit( )
-  - isalpha( )
-  - isalnum( )
+  - *strip( )
+  - *lstrip( )
+  - *rstrip( )
+  - *startswith( )
+  - *endswith( )
+  - *isdigit( )
+  - *isalpha( )
+  - *isalnum( )
 - Enumerate function
 - Programs-
   - a. Calculate avg of a list elements. List is not directly given. 1st create a space separated elements in a list using code and then calculate avg using list comprehension.

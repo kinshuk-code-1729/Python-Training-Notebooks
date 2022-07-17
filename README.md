@@ -102,7 +102,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Concept of *Default-Dictionary* using *defaultdict* method of *collections* module.**
 - ***Zipping* and *unzipping* of a *dictionary.***
 - **Conversion of a *list* into a *dictionary* using *zip( )* function.**
-- - **Dictionary Comprehension.**
+- **Dictionary Comprehension.**
 - **Programs :**
   - ***To check whether a key is present in a dictionary or not.***
-  - ***To print the contents of the dictionary whose key is greater than 3 and key when divided by 3 has remainder 0, using dictionary comprehension***
+  - ***To print the contents of the dictionary whose key is greater than 3 and key when divided by 3 has remainder 0, using dictionary comprehension.***

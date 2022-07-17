@@ -90,7 +90,6 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - ***Dictionaries* in Python *(version 3.7.10)*.**
 - **Various *Dictionary* Methods :**
   - ***len( )***
-  - ***has_key( )***
   - ***keys( )***
   - ***values( )***
   - ***items( )***

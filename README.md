@@ -83,9 +83,26 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***a. Calculate avg of a list elements. List is not directly given. 1st create a space separated elements in a list using code and then calculate avg using list comprehension.***
   - ***b. Remove common elements from 2 lists and store them in a separate list.***
   - ***c. Find the index of repeated elements in a list and store those index positions in another list.***
-- ***✴Facebook Interview* Question ✴**
-
-***There are 2 lists. Find the index position in the first list of the elements given in the 2nd list and store them in a 3rd list.***
+- ***Facebook Interview* Question :**
+  - ***There are 2 lists. Find the index position in the first list of the elements given in the 2nd list and store them in a 3rd list.***
 
 ## 🎇🎇 Day 5 🎇🎇
-**Today we covered complete dictionary (python ver.3.7).** 
+- ***Dictionaries* in Python *(version 3.7.10)*.**
+- **Various *Dictionary* Methods :**
+  - ***len( )***
+  - ***has_key( )***
+  - ***keys( )***
+  - ***values( )***
+  - ***items( )***
+  - ***get( )***
+  - ***sorted( )***
+  - ***update( )***
+  - ***pop( )***
+  - ***del***
+- **Concept of *Default-Dictionary* using *defaultdict* method of *collections* module.**
+- ***Zipping* and *unzipping* of a *dictionary.***
+- **Conversion of a *list* into a *dictionary* using *zip( )* function.**
+- - **Dictionary Comprehension.**
+- **Programs :**
+  - ***To check whether a key is present in a dictionary or not.***
+  - ***To print the contents of the dictionary whose key is greater than 3 and key when divided by 3 has remainder 0, using dictionary comprehension***

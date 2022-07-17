@@ -78,7 +78,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***isdigit( )***
   - ***isalpha( )***
   - ***isalnum( )***
-- **Enumerate function.**
+- ***Enumerate* function in Python**
 - **Programs :**
   - ***a. Calculate avg of a list elements. List is not directly given. 1st create a space separated elements in a list using code and then calculate avg using list comprehension.***
   - ***b. Remove common elements from 2 lists and store them in a separate list.***

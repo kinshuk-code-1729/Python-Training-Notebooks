@@ -110,20 +110,20 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Sets in Python.**
 - **Empty set creation.**
 - **Operations on a set :**
-  - *Union*
-  - *Intersection*
-  - *Symmetric difference*
-  - *Difference*
+  - ***Union***
+  - ***Intersection***
+  - ***Symmetric difference***
+  - ***Difference***
 - **Set Attributes**
-  - *isdisjoint( )*
-  - *issubset( )*
-  - *issuperset( )*
-  - *len( )*
-  - *add( )*
-  - *remove( )*
-  - *discard( )*
-  - *pop( )*
-  - *clear( )*
+  - ***isdisjoint( )***
+  - ***issubset( )***
+  - ***issuperset( )***
+  - ***len( )***
+  - ***add( )***
+  - ***remove( )***
+  - ***discard( )***
+  - ***pop( )***
+  - ***clear( )***
 - **Augmented Operators.**
 - **Frozenset.**
 - **Set comprehension.**

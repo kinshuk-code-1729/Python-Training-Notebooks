@@ -115,15 +115,15 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - *Symmetric difference*
   - *Difference*
 - **Set Attributes**
-  - *isdisjoint*
-  - *issubset*
-  - *issuperset*
-  - *len*
-  - *add*
-  - *remove*
-  - *discard*
-  - *pop*
-  - *clear*
+  - *isdisjoint( )*
+  - *issubset( )*
+  - *issuperset( )*
+  - *len( )*
+  - *add( )*
+  - *remove( )*
+  - *discard( )*
+  - *pop( )*
+  - *clear( )*
 - **Augmented Operators.**
 - **Frozenset.**
 - **Set comprehension.**

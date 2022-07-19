@@ -110,10 +110,11 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Sets in Python.**
 - **Empty set creation.**
 - **Operations on a set :**
-  - union
-  - Intersection
-  - Symmetric difference
-  - Difference
+  - *Union*
+  - *Intersection*
+  - *Symmetric difference*
+  - *Difference*
+- **Set Attributes**
   - isdisjoint
   - Issubset
   - issuperset

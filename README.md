@@ -80,9 +80,9 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***isalnum( )***
 - ***Enumerate* function in Python**
 - **Some Programs of:**
-  - ***a. Calculate avg of a list elements. List is not directly given. 1st create a space separated elements in a list using code and then calculate avg using list comprehension.***
-  - ***b. Remove common elements from 2 lists and store them in a separate list.***
-  - ***c. Find the index of repeated elements in a list and store those index positions in another list.***
+  - ***Calculate average of a list elements. List is not directly given. First create a space separated elements in a list using code and then calculate average using list Comprehension.***
+  - ***Remove common elements from two lists and store them in a separate list.***
+  - ***Find the index of repeated elements in a list and store those index positions in another list.***
 - ***Facebook Interview* Question :**
   - ***There are 2 lists. Find the index position in the first list of the elements given in the 2nd list and store them in a 3rd list.***
 

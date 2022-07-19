@@ -105,3 +105,24 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Programs :**
   - ***To check whether a key is present in a dictionary or not.***
   - ***To print the contents of the dictionary whose key is greater than 3 and key when divided by 3 has remainder 0, using dictionary comprehension.***
+
+## 🎇🎇 Day 6 🎇🎇
+- Sets in Python
+- Empty set creation
+- Operations on a set :
+  - union
+  - Intersection
+  - Symmetric difference
+  - Difference
+  - isdisjoint
+  - Issubset
+  - issuperset
+  - Len
+  - Add
+  - remove
+  - Discard
+  - Pop 
+  - clear
+- augmented operators
+- Frozenset
+- Set comprehension

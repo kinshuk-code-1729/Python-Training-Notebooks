@@ -114,7 +114,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Intersection***
   - ***Symmetric difference***
   - ***Difference***
-- **Set Attributes**
+- **Set Attributes :**
   - ***isdisjoint( )***
   - ***issubset( )***
   - ***issuperset( )***

@@ -129,13 +129,13 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Set comprehension.**
 
 ## 🎇🎇 Day 7 🎇🎇
-- Functions in Python.
-- Arguments vs Parameters.
-- Types of arguments.
-- Types of scopes- local, enclosed, global, built-in
-- LEGB Rule.
-- Non-local, global, globals keyword.
-- First Class Functions.
-- Closure Functions.
-- Decorators.
-- Pass by value and Pass by reference in Python.
+- **Functions in Python.**
+- **Arguments vs Parameters.**
+- **Types of arguments.**
+- **Types of scopes- local, enclosed, global, built-in
+- **LEGB Rule.**
+- **Non-local, global and globals keyword.**
+- **First Class Functions.**
+- **Closure Functions.**
+- **Decorators.**
+- **Pass by value and Pass by reference in Python.**

@@ -132,7 +132,11 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Functions in Python.**
 - **Arguments vs Parameters.**
 - **Types of arguments.**
-- **Types of scopes- local, enclosed, global, built-in
+- **Types of scopes :**
+  - **local**
+  - **enclosed**
+  - **global**
+  - **built-in**
 - **LEGB Rule.**
 - **Non-local, global and globals keyword.**
 - **First Class Functions.**

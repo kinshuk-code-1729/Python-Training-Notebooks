@@ -143,3 +143,5 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Closure Functions.**
 - **Decorators.**
 - **Pass by value and Pass by reference in Python.**
+
+## 🎇🎇 Day 8 🎇🎇

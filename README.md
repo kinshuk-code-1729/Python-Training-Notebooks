@@ -156,9 +156,9 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Advantages of generator functions.***
   - ***Program to print fibonacci using yield.***
 - **Exception Handling :**
-  - ***try***
-  - ***except***
-  - ***finally blocks.***
+  - ***try block.***
+  - ***except block.***
+  - ***finally block.***
   - ***try with break.***
   - ***exception with continue.***
   - ***finally with continue.***
@@ -173,7 +173,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Integer* to *Roman* number conversion.**
   - **To find the *first repeating character* in a string.**
   - **To find *LCM* of *'n'* numbers.**
-- **Basics of File handling using python :**
-  - ***Read operation.***
-  - ***Write operation.***
-  - ***Append operation.*** 
+- **Basics of File handling using python and various file operational modes :**
+  - ***Read Mode.***
+  - ***Write Mode.***
+  - ***Append Mode.*** 

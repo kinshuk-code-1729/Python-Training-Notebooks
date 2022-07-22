@@ -145,3 +145,27 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Pass by value and Pass by reference in Python.**
 
 ## 🎇🎇 Day 8 🎇🎇
+Today's Python Training Content- 
+Morning Session 2 Hours-
+1. Anonymous Functions - lambda, map, filter, reduce
+2. Generators-
+tuple comprehension, yield, advantages of generator function, program to print fibonacci using yield.
+3. Exception Handling-
+Try, except, finally blocks, try with break, exception with continue, finally with continue
+
+Afternoon Session 1 Hour
+Complete strings and 2 programs asked in competetive exams.
+
+## 🎇🎇 Day 9 🎇🎇
+Today's Python training Content-
+1. Program to find largest no.from a list without max method.
+2. Program to find index position of given element in the list without using index method.
+3. Find the middle element of list.
+4. American Keyboard Row problem
+5. Integer to Roman number conversion
+6. Program to find the first repeating character in a string.
+
+Today's afternoon contents of Python training are available on youtube now. Topics covered were-
+1. Basics of File handling using python. Read, write, append operations. 
+(More advance topics I'll continue in some other class.)
+2. Program to find LCM of n- numbers.

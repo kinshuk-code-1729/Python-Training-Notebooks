@@ -172,7 +172,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***American Keyboard Row Problem.***
   - ***Integer to Roman number conversion.***
   - ***To find the first repeating character in a string.***
-  - ***Program to find LCM of 'n' numbers.***
+  - ***To find LCM of 'n' numbers.***
 - **Basics of File handling using python :**
   - ***Read operation.***
   - ***Write operation.***

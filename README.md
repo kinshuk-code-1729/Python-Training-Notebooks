@@ -126,7 +126,7 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***clear( )***
 - **Augmented Operators.**
 - **Frozenset.**
-- **Set comprehension.**
+- **Set Comprehension.**
 
 ## 🎇🎇 Day 7 🎇🎇
 - **Functions in Python.**
@@ -166,13 +166,13 @@ This repository contains jupyter notebooks day-wise made during my python traini
 
 ## 🎇🎇 Day 9 🎇🎇
 - **Some Frequently asked programs in *Python Interviews* / written exams :**
-  - ***To find largest number from a list without using max( ) method.***
-  - ***To find index position of given element in the list without using index method.***
-  - ***Find the middle element of list.***
+  - **To find largest number from a list without using *max( )* method.**
+  - **To find index position of given element in the list without using *index()* method.**
+  - **Find the *middle* element of list.**
   - ***American Keyboard Row Problem.***
-  - ***Integer to Roman number conversion.***
-  - ***To find the first repeating character in a string.***
-  - ***To find LCM of 'n' numbers.***
+  - ***Integer* to *Roman* number conversion.**
+  - **To find the *first repeating character* in a string.**
+  - **To find *LCM* of *'n'* numbers.**
 - **Basics of File handling using python :**
   - ***Read operation.***
   - ***Write operation.***

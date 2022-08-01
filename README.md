@@ -177,3 +177,27 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Read Mode.***
   - ***Write Mode.***
   - ***Append Mode.*** 
+
+## 🎇🎇 Day 10 🎇🎇
+- ***Class* and *Object* definitions.**
+- **Creation of a *class* in Python.**
+- **Difference between a *function* and a *method*.**
+- **Object creation.**
+- **Accessing class attributes using *getattr( )* and *setattr( )* methods.**
+- **Deleting class attributes using *delattr( )* method.**
+- **Need of *self function.***
+- **Initializing an attribute of a class using *init* method.**
+- **Inheritance :**
+  - ***Multiple Inheritance.***
+  - ***Method Resolution Order (mro).***
+- **Concept of *Encapsulation* and *Access Specifiers* in Python :**
+  - ***public.***
+  - ***private.***
+  - ***protected.***
+- ***Name Mangling.***
+- **Why Python is not a *pure Object-Oriented Programming* Language ???**
+- **Concept of *Polymorphism* :**
+  - ***Method Overloading.***
+  - ***Method Overriding.***
+  - ***Function Overloading.***
+  - ***Operator Overloading.***

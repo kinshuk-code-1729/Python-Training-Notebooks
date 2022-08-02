@@ -201,3 +201,14 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Method Overriding.***
   - ***Function Overloading.***
   - ***Operator Overloading.***
+
+Today's Python Training Topics Covered-
+1. Duck typing
+2. Monking patching
+3. Destructors
+4. Abstraction
+5. Inheritance
+6. Instance, Class and Static Methods
+7. Numpy
+8. repr and str methods
+9. Why mutable data structure shouldn't be used as function parameters.

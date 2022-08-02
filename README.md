@@ -201,14 +201,35 @@ This repository contains jupyter notebooks day-wise made during my python traini
   - ***Method Overriding.***
   - ***Function Overloading.***
   - ***Operator Overloading.***
-
-Today's Python Training Topics Covered-
-1. Duck typing
-2. Monking patching
-3. Destructors
-4. Abstraction
-5. Inheritance
-6. Instance, Class and Static Methods
-7. Numpy
-8. repr and str methods
-9. Why mutable data structure shouldn't be used as function parameters.
+  
+## 🎇🎇 Day 11 🎇🎇
+- **Duck Typing.**
+- **Monking Patching.**
+- **Destructors.**
+- **Abstraction.**
+- **Inheritance.**
+- **Various Methods in Python :**
+  - ***Instance Method.***
+  - ***Class Method.***
+  - ***Static Method.***
+- **Numpy Module :**
+  - **Creation of Single and Multi-Dimensional Arrays.**
+  - **Reshaping the Arrays.**
+  - **Various Array Methods :**
+    - ***zeros***
+    - ***ones***
+    - ***eye***
+    - ***diag***
+    - ***linalg.det***
+    - ***linalg.inv***
+    - ***sum***
+  - **Conversion of 'n' dimensional arrays into single dimensional array :**
+    - ***flatten( )* method.**
+    - ***ravel( )* method.**
+  - **Some Operations on Matrices.**
+  - **Broadcast.**
+  - **Drawbacks of Numpy Module.**
+- **Textual representation of an object.**
+  - ***repr* method.**
+  - ***str* method.**
+- **Why *mutable data structure* shouldn't be used as *function parameters* ???**

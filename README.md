@@ -235,9 +235,9 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - **Why *mutable data structure* shouldn't be used as *function parameters* ???**
 
 ## 🎇🎇 Day 12 🎇🎇
-LBYL vs EAFP
-Iterator and Iterables
-Regular Expression
+- LBYL vs EAFP
+- Iterator and Iterables
+- Regular Expression
 
 ## 🎇🎇 Day 13 🎇🎇
 10 programs asked in different interviews

@@ -240,5 +240,8 @@ This repository contains jupyter notebooks day-wise made during my python traini
 - Regular Expression
 
 ## 🎇🎇 Day 13 🎇🎇
-10 programs asked in different interviews
-Different features of version 3.8, 3.9 and 3.10.
+- 10 programs asked in different interviews
+- Different features of version
+  - 3.8
+  - 3.9
+  - 3.10

@@ -1,5 +1,6 @@
 This repository contains jupyter notebooks day-wise made during my python training.
 
+![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89cNeTnhyEfYA3vXLEDCLX4UetMGFc2_F9A&usqp=CAU)
 #  ✨ *Various Topics Covered Day Wise* 👇👇
 
 ## 🎇🎇 Day 1 🎇🎇
